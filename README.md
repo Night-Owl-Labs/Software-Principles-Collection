@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
+    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Collection" target="_blank">
         <img src="./docs/images/icon.png" width="200" height="200"/>
     </a>
 </div>
@@ -16,10 +16,10 @@
 
 ---------------
 
-<h1 align="center">Software Principles Series</h1>
+<h1 align="center">Night Owl Labs - Software Principles Collection</h1>
 
 <div align="center">
-    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
+    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Collection" target="_blank">
         <img src="./docs/images/banner_collection.png" width="500" />
     </a>
 </div>
