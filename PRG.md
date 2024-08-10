@@ -14,8 +14,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 **Repository Tier:** Silver <br>
 **Technology:** Markdown <br>
-**Category:** Software Principles, Software Architecture <br>
-**Order:** 18 <br>
+**Category:** Software Principles, Software Concepts <br>
+**Order:** 15 <br>
 
 ## Parameters
 

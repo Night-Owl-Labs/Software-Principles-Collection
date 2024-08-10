@@ -18,13 +18,13 @@
 
 <h1 align="center">Software Principles Series</h1>
 
-A growing curated collection of foundational software principles, featuring links to repositories that delve into key concepts like OOP, SOLID, and more.
-
 <div align="center">
     <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
         <img src="./docs/images/series.png" width="500" />
     </a>
 </div>
+
+A growing curated collection of foundational software principles, featuring links to repositories that delve into key concepts like OOP, SOLID, and more.
 
 ---------------
 
