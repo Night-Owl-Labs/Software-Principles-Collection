@@ -22,7 +22,7 @@ A growing curated collection of foundational software principles, featuring link
 
 <div align="center">
     <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
-        <img src="./docs/images/series.png" width="320" />
+        <img src="./docs/images/series.png" width="500" />
     </a>
 </div>
 
