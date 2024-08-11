@@ -1,0 +1,9 @@
+[submodule "principles/SOLID-Principles"]
+	path = principles/SOLID-Principles
+	url = https://github.com/Night-Owl-Labs/SOLID-Principles
+[submodule "principles/OOP-Principles"]
+	path = principles/OOP-Principles
+	url = https://github.com/Night-Owl-Labs/OOP-Principles
+[submodule "principles/Software-ilities"]
+	path = principles/Software-ilities
+	url = https://github.com/Night-Owl-Labs/Software-ilities
