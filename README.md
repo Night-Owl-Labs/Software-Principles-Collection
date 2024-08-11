@@ -42,6 +42,9 @@ Click on the repository links below to find out more information for each princi
 2. [OOP Principles](https://github.com/Night-Owl-Labs/OOP-Principles)
 3. [Software "-ilities"](https://github.com/Night-Owl-Labs/Software-ilities)
 
+> [!TIP]
+> You can also find them in this repository as submodules in the [principles](./principles/) directory.
+
 ## License
 
 This project is released under the terms of the **MIT License**, which permits use, modification, and distribution of the code, subject to the conditions outlined in the license.
